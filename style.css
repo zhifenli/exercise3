@@ -1,6 +1,10 @@
 body {
     background-color: #3F401E;
     font-family: Tahoma, Verdana, Segoe, sans-serif;
+    background-image: url("gallery-images/blue-sky.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 html, body {
     margin:  0;
