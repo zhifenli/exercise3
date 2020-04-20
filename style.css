@@ -45,6 +45,11 @@ a:link, a:visited, a:active {
 a:hover {
     color: #c1d4d9;
 }
+img.gallery {
+    width: 300px;
+    /* float: left; */
+    padding: 10px 10px 20px 20px;
+}
 
 .menu ul a {
     text-decoration: none;
@@ -93,3 +98,6 @@ a:hover {
 .menubox p {
     color: #38687b;
   }
+  .footer {
+    clear: both;
+    }
